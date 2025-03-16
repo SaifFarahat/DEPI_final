@@ -1,0 +1,41 @@
+Diabetes_012
+0 = no diabetes 1 = prediabetes 2 = diabetes
+
+
+HighBP
+0 = no high BP 1 = high BP
+
+
+HighChol
+0 = no high cholesterol 1 = high cholesterol
+
+
+CholCheck
+0 = no cholesterol check in 5 years 1 = yes cholesterol check in 5 years
+
+
+
+
+Smoker
+Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes] 0 = no 1 = yes
+
+
+
+Stroke
+(Ever told) you had a stroke. 0 = no 1 = yes
+
+
+
+HeartDiseaseorAttack
+coronary heart disease (CHD) or myocardial infarction (MI) 0 = no 1 = yes
+
+
+
+PhysActivity
+physical activity in past 30 days - not including job 0 = no 1 = yes
+
+
+
+
+Fruits
+Consume Fruit 1 or more times per day 0 = no 1 = yes

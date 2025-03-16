@@ -1,0 +1,6 @@
+link of dataset
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+
+my notebook link
+https://www.kaggle.com/code/saiffarahat/diabetes
